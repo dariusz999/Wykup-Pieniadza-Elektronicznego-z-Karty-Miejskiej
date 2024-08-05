@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProjectLibrary", "FinalProjectLibrary\FinalProjectLibrary.csproj", "{14DC7585-1121-4650-9240-33C290737FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProjectWabAPI", "FinalProjectWabAPI\FinalProjectWabAPI.csproj", "{816C749E-B302-4A61-9285-E26E8DB0F247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DC7585-1121-4650-9240-33C290737FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DC7585-1121-4650-9240-33C290737FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DC7585-1121-4650-9240-33C290737FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DC7585-1121-4650-9240-33C290737FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816C749E-B302-4A61-9285-E26E8DB0F247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816C749E-B302-4A61-9285-E26E8DB0F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816C749E-B302-4A61-9285-E26E8DB0F247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816C749E-B302-4A61-9285-E26E8DB0F247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0517E81-04D8-4FF8-822B-819B6C27E2EE}
+	EndGlobalSection
+EndGlobal
